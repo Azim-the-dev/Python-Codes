@@ -1,0 +1,16 @@
+1. Write a menu driven program to convert the given temperature from Fahrenheit to Celsius  and vice versa depending upon users choice.  
+
+2. Write a Program to calculate total marks, percentage and grade of a student. Marks  obtained in each of the three subjects are to be input by the user. Assign grades according  to the following criteria:  
+Grade A: Percentage >=80  
+Grade B: Percentage>=70 and <80  
+Grade C: Percentage>=60 and <70  
+Grade D: Percentage>=40 and <60  
+Grade E: Percentage<40  
+
+3. Write a menu-driven program, using user-defined functions to find the area of rectangle,  square, circle and triangle by accepting suitable input parameters from user. 
+
+4. Write a Program to display the first n terms of Fibonacci series.  
+
+5. Write a Program to find factorial of the given number.  
+
+6. Write a Program to find sum of the following series for n terms: 1 – 2/2! + 3/3! - - - - - n/n!  7. Write a Program to calculate the sum and product of two compatible matrices. 
