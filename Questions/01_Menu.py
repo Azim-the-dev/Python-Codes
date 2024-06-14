@@ -1,10 +1,10 @@
 # Write a menu driven program to convert the given temperature from Fahrenheit to Celsius and vice versa depending upon users choice.
 
 def fahrenheit_to_celsius(fahrenheit):
-    return (fahrenheit - 32) * 5.0/9.0
+    return (fahrenheit - 32) * 5/9
 
 def celsius_to_fahrenheit(celsius):
-    return (celsius * 9.0/5.0) + 32
+    return (celsius * 9/5) + 32
 
 print("\n[Temperature Conversion Menu]")
 print("1. Fahrenheit to Celsius")
